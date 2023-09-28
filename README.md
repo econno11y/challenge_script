@@ -50,4 +50,4 @@ After cloning the app, you need to:
     python challenge/script.py
     ```
 
-5. Have some fun experimenting with [other image-to-text models](https://replicate.com/collections/image-to-text)
+5. Have some fun experimenting with [other image-to-text models](https://replicate.com/collections/image-to-text). Click on any of the links, select the API tab, copy the string that identifies the model from the `replicate.run(<model>, <input>)` snippet and use it to replace the AI_MODEL in your .env file.
